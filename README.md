@@ -32,3 +32,7 @@ Faça o upload do arquivo answer.csv usando o botão "Submeter resposta".
 ## Observações
 
 O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
+
+## Resultados
+
+Ao submeter o arquivo "answer.csv" obteve-se 93,31% de acerto.
